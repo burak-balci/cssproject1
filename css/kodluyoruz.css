@@ -1,0 +1,17 @@
+body {
+    text-align: center;
+    background-color: #FFEEAD;
+    font-style: inherit;
+    font-size: 18px;
+    font-family: monospace;
+}
+ul {
+    list-style-position: inside
+}
+h2 {
+    font-family:monospace ;
+}
+a {
+    font-size: 22px;
+    font-weight: bold;
+}
